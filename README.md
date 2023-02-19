@@ -6,7 +6,7 @@ You can clone the backend repo from here:  [`Backend Repo`](https://download-dir
 
  ## After you downloaded the backend, open it and run
  `npm start`
- ## After you started the backend, open frontent and run
+ ## After you started the backend, open frontend and run it
  `npm start`
 
 ### Well done!
